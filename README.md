@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/alvintriseptia/url-shortening-api)
-- Live Site URL: [](https://alvindev-url-shortening-api.netlify.app/)
+- Solution URL: [Github](https://github.com/alvintriseptia/url-shortening-api)
+- Live Site URL: [Demo | Netlify](https://alvindev-url-shortening-api.netlify.app/)
 
 ## My process
 
