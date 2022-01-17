@@ -45,6 +45,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Axios](https://axios-http.com/) - JS Library
+- [shrtcode](https://shrtco.de/) - API for Shortener Link
 
 ### What I learned
 
@@ -57,6 +58,7 @@ Users should be able to:
 - [Tailwind CSS Docs](https://www.typescriptlang.org/docs/)
 - [TypeError: MiniCssExtractPlugin is not a constructor](https://exerror.com/typeerror-minicssextractplugin-is-not-a-constructor/)
 - [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/)
+- [shrtcode API docs](https://shrtco.de/docs/)
 
 ## Author
 
